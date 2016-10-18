@@ -1,7 +1,7 @@
 # Code examples from SimpleR by John Verzani
 # Link: http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
 
-# Vector
+# Vectorw
 typos = c(2, 3, 8, 4, 4)
 typos
 
