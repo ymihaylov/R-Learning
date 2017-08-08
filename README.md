@@ -7,3 +7,5 @@
 - [Head First Statistics](http://www.headfirstlabs.com/books/hfstats/)
 - [simpleR - Using R for Introductory Statistics - Verzani (Book)](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 - [simpleR - Solutions](https://github.com/buruzaemon/simpleR)
+
+- [Seeing-theory](http://students.brown.edu/seeing-theory/)
