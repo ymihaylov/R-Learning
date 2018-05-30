@@ -23,6 +23,16 @@ Its possible thats both black and even events
 If A + B = 1, then A and B are said to be exhaustive. They make up the whole of S. They exhaust all possibilities.
 
 If events A and B are exclusive then
-P(A U B) = 0
+P(A ∩ B) = 0
 
-if events A
+if events A and B are exhaustive then
+P(A ∪ B) = 1
+
+A and A' are mutually exclusive.
+
+# Find conditional probabilities
+A probability tree
+
+
+
+

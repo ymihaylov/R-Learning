@@ -128,7 +128,22 @@ Histogram is excellent way to display grouped numeric data.
 Cumulative frequency - total of 2 or more groups
 Cumulative frequancy graph
 
-Exercise
+Loc 1058 Exercise
+Първата диаграма - bar charts - се показва точно и ясно какви са разликите в profit-ите през годините за двете компании
+Втората диагарама - graph - визуално показва как през годините са се менили profit-ите
+
+Line charts са добри за показването на трендовете в данните. Можем да показваме различни set-ове от данни.
+Line charts should be used for nimerical data only, and not categorical. What would happen if you reareng the categories - meaningful!!!
+Use Line charts if you want to show trends for example over time
+Dont use line charts to show categorical data, unless you are showing trends for each
+
+A time series chart is really a line chart that focuses on time intervals.
+
+The comulative frequency graph is a type of line chart that show the total frequency.
+
+Line charts should only be used to show categorical data if you are showing trends for each category and use separate line for each category.
+
+Line charts are better for showing overarching trends and bar charts are better for comparing values and categories.
 
 
 
