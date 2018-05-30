@@ -9,3 +9,15 @@
 - [simpleR - Solutions](https://github.com/buruzaemon/simpleR)
 
 - [Seeing-theory](http://students.brown.edu/seeing-theory/)
+
+# Good courses
+- [Class central report](https://www.class-central.com/report/best-statistics-probability-courses-data-science/)
+
+- [Quora question](https://www.quora.com/Are-there-any-good-entry-level-online-courses-on-statistics)
+- [Udacity course]https://eu.udacity.com/course/intro-to-statistics--st101
+
+- [Coursera](https://www.coursera.org/browse/data-science/probability-and-statistics?languages=en)
+
+- [Digital Defund Post](https://digitaldefynd.com/best-probability-statistics-courses-classes-training-certification/)
+
+- [Pluralsight](https://www.pluralsight.com/courses/statistics-foundations-probability-distributions)
