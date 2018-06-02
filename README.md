@@ -14,7 +14,7 @@
 - [Class central report](https://www.class-central.com/report/best-statistics-probability-courses-data-science/)
 
 - [Quora question](https://www.quora.com/Are-there-any-good-entry-level-online-courses-on-statistics)
-- [Udacity course]https://eu.udacity.com/course/intro-to-statistics--st101
+- [Udacity course](https://eu.udacity.com/course/intro-to-statistics--st101)
 
 - [Coursera](https://www.coursera.org/browse/data-science/probability-and-statistics?languages=en)
 
