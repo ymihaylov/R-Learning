@@ -30,3 +30,7 @@ Distributions - разпределения
 ---
 Pie charts - visualize relative data
 Calculate Percentage for pie charts (5.5 from udacity course)
+
+--
+Mode
+
