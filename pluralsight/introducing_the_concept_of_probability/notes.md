@@ -32,15 +32,15 @@ This is complex event: it can be decomposed into simpler events
 ## Sample space
 The set of all possible values of a random variable is called the sample space
 The sample space of for a die roll is:
-S = {E<sup>1</sup>, E<sup>2</sup>, E<sup>3</sup>, E<sup>4</sup>, E<sup>5</sup>, E<sup>6</sup>}
-where E<sup>n</sup> is an event when n is rolled
+S = {E<sub>1</sub>, E<sub>2</sub>, E<sub>3</sub>, E<sub>4</sub>, E<sub>5</sub>, E<sub>6</sub>}
+where E<sub>n</sub> is an event when n is rolled
 Each element of the sample space is a sample point
 
 ## Operations on Events
 
 ## Independence of Events
-If events dont influence on another, the are called idnependent.
+If events dont influence on another, they are called independent.
 - Succesive die rolls or coin flips
-If subsequent events influence one another, the are dependent
+If subsequent events influence one another, they are dependent
 - Colored balls being pulled out of a hat without replacement
 - The set of possible balls gets reduced as you pull them out
