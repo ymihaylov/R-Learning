@@ -99,13 +99,65 @@ How many possible draws are there?
 Red, green or blue
 - Second draw: two options
 - Third draw: one options
-3 * 2 * 1 = 6
+3 * 2 * 1 = 6 = 3!
 
 - Permutations
 Given a set of elements, all distinct arrangements of these elements are called permutations of a set.
+The number of ways you can arrange N elements out of N possibilities is ...
+P<sub>n, n</sub> = N x (N-1) x (N-2) x ... x 2 x 1 = N!
+N! = "N factorial" = a product of all numbers from N down to 1
+- Assumes N is non-negative integer
+- By definition 0! = 1
 
+General Formula for Permutations:
+Suppose there are n = 5 balls (RGBWO) and you draw k = 3 without replacement.
+How many possible arrangments are there?
+5 possibilities on first draw,
+4 possibilites on the second
+3 possibilities on the third,
+so 5 x 4 x 3 = 60
 
+But how to express it in terms of n and k?
+(5 x 4 x 3) = (5 x 4 x 3 x 2 x 1) / (2 x 1) = 5! / 2! = n! / (n - k)!
 
+Thus, the number of permutations of k elements out of n is
+P<sub>n, k</sub> = n! / (n - k)!
 
+## Permutation examples
+Number of unique 5-letter words that can be arranged from letters {a, b, c, d, e}.
+5<sub>5</sub> = 3125
+We have replacement here.
 
+But if each letter appears exactly once:
+5! = 120
 
+3 letter words, each letter appeare once:
+P<sub>5, 3</sub> = 5! / (5 - 3)! = 60
+
+### Birthday Problem
+Given a room with k people, what is the probability that at least two people have the same birthday?
+- Ignore leap years, seasonal variations.
+- Obvious: if k > 365, P = 1, so assume k <= 365
+- Number of arrangments when each birthday is different P<sub>365, k</sub>
+- Total number of arrangments = 365<sup>k</sup>
+P(no two people have same birthday) = P<sub>365, k</sub> / 365<sup>k</sup>
+P(two + people have same birthday) = 1 - P<sub>365, k</sub>/365<sup>k</sup>
+
+## Demo birthday
+
+## Combinatorics
+Combinatorics is a branch of mathematics concerning the study of finite or countable discrete structures.
+- Given a bag of balls B = {R, G, B, W, O}
+If we pull out 2 balls after replacement, the number of arrangments is
+P<sub>5, 2</sub> = 5! / 3! = 20
+
+What if we dont care about order, i.e. we consider {R, B} and {B, R} to be the same pick?
+How can we calculate the number of unique picks now?
+Problem: find the number of subsets of a set (remember, order doesnt matter!)
+
+----
+
+Give a bag of balls B = {R, G, B, W, O}
+The total number of picks (including duplicate sets) is P<sub>5, 2</sub>
+- And each of the picks has 2! possible arrangments
+C<sub>n, k</sub> = P<sub>n, k</sub> / k! = n! / k!(n - k)!
