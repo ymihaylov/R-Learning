@@ -161,3 +161,61 @@ Give a bag of balls B = {R, G, B, W, O}
 The total number of picks (including duplicate sets) is P<sub>5, 2</sub>
 - And each of the picks has 2! possible arrangments
 C<sub>n, k</sub> = P<sub>n, k</sub> / k! = n! / k!(n - k)!
+
+## Binomial Coeficients
+### Example 1
+You toss a coin 10 times and record the result. What is probability of getting exactly 4 heads.
+
+There are a total of 2<sup>10</sup> arrangments.
+Each arrangement is a choice as to where to put the 4 heads among 10 tosses; (10 4) arrangements.
+
+P(4 heads) = (10 4)/2<sup>10</sup> = 0.205
+
+### Example 2
+Number of sequences of 4 heads or less
+P(<= 4 heads)
+We calculate the sum of P(0 heads), P(1 heads), P(2 heads), P(3 heads), P(4 heads).
+
+### Example 3
+A class has 15 girls and 30 boys.
+Pick 10 children at random. What's the probability you will pick exactly 3 girls?
+- Number of ways of picking 3 girls from 15 girls is (15 3);
+- Numbers of ways to picking 7 boys form 30 is (30 7);
+- Overall number of combinations is (45 10)
+
+P(3 girls) = (15 3)*(30 7) / (45 10)
+
+## Multinomial Coefficients
+### Example 1
+10 students need to form 3 groups consisting of 4, 3 and 3 members respectively.
+How many ways can students be assigned to these groups?
+
+First group: choose 4 students out of 10 (10 4) arrangements;
+We are left with 6 students; number of ways to split them is (6 3);
+(10 4) * (6 3) = 4200
+
+- In general, number of arrangements of n elements into k groups of size n<sub>i</sub> = {n1, n2, n3, ...} is ... {notes}
+
+
+### Example 2
+Number of ways to arrange 3a's, 4b's and 5c's
+
+### Example 3
+In the expansion of (x + y + z)<sup>3</sup> the coefficient of term x<sup>2</sup>z ... {notes}
+
+## Probability of a Union of Events
+### Example 1
+Consider a cohort
+50 students take programming (P)
+100 students take electronics (E)
+150 students take maths (M)
+
+30 students take programming+electronics
+45 students take electronics+maths
+25 students take electronics+programming
+15 students take all 3 classes
+
+Some students take no classes from the list
+
+What is the probability that a student takes at least one class?
+P(P) = 50 / 100; P(E) = 100 / 200; P(M) = 75 / 200
