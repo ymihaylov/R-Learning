@@ -8,7 +8,10 @@
 - [simpleR - Using R for Introductory Statistics - Verzani (Book)](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 - [simpleR - Solutions](https://github.com/buruzaemon/simpleR)
 
+- [Stats 110 Repo](https://github.com/buruzaemon/stats-110)
+
 - [Seeing-theory](http://students.brown.edu/seeing-theory/)
+- [Exploring statistics](https://www.amazon.com/Exploring-Statistics-Introduction-Inference-Alexander/dp/0534363512)
 
 # Good courses
 - [Class central report](https://www.class-central.com/report/best-statistics-probability-courses-data-science/)
