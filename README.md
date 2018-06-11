@@ -14,6 +14,8 @@
 - [Exploring statistics](https://www.amazon.com/Exploring-Statistics-Introduction-Inference-Alexander/dp/0534363512)
 
 - [Trello Course](https://trello.com/b/dpaYLjxt/%D1%81%D0%B5%D0%BC-%D0%B8%D1%81-2015-2016)
+- [FMI Resources](http://fmi.wikidot.com/probu)
+- [Replacements](http://www.statisticshowto.com/sampling-with-replacement-without/)
 
 # Good courses
 - [Class central report](https://www.class-central.com/report/best-statistics-probability-courses-data-science/)
