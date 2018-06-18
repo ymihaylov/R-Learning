@@ -7,3 +7,10 @@ barplot(table(beer)/length(beer)) # divide by n for proportion???
 
 # Help for functions
 ?scan 
+
+beer.counts = table(beer) # store the table result
+pie(beer.counts) # kind of dull
+# give names
+names(beer.counts) = c("Domestic\n can", "Domestic\n bottle", "Microbrew", "Import")
+pie(beer.counts)
+pie(beer.counts, col=c("purple", "green2", "cyan", "white")) # now with colors
