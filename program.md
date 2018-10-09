@@ -1,14 +1,14 @@
-Jun
+November
 - Pluralsight course
 - Verzani Book R
-- Book from private lessons and exercises
+- Notebook from private lessons and exercises
 
-July
+December
 - Solving different exercises for Practical Exam
 - Head First Statistics Book
 - Check resourses and other courses in internet
 
-August
+January
 - Learning for Theory Exam
 - Learning for Practical Exam
 - Learning for R exam
