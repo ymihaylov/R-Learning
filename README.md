@@ -17,6 +17,7 @@
 - [FMI Resources](http://fmi.wikidot.com/probu)
 - [Replacements](http://www.statisticshowto.com/sampling-with-replacement-without/)
 - [Upper and Lower Hinge](http://www.statisticshowto.com/upper-hinge-lower-hinge/)
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 
 # Good courses
