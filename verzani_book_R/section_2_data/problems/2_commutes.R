@@ -8,7 +8,7 @@ min(commutes)
 # Oops, the 24 was a mistake. It should have been 18. How can you fix this?
 # First solution
 commutes[which(commutes == 24)] = 18
-commutes[commutes==24]
+commutes[commutes == 24] = 18
 
 # Second solution
 commutes = edit(commutes)

@@ -4,7 +4,7 @@
 # Enter this data into a variable.
 phone_bills = c(46, 33, 39, 37, 46, 30, 48, 32, 49, 35, 30, 48)
 
-# Use the sum command to and the amount you spent this year on
+# Use the sum command to find the amount you spent this year on
 # the cell phone.
 sum(phone_bills)
 

@@ -1,5 +1,5 @@
 # What to learn
-- Expactions:
+- Expactions (Очаквания):
 EX = x1p1 + x2p2 + ... + xkpk
 
 - Quartiles and Quantiles
@@ -16,6 +16,7 @@ Outliers
 Interpolation method
 
 Deviations - отклонения
+
 
 Random noise (4.2 from udacity course)
 
@@ -34,3 +35,5 @@ Calculate Percentage for pie charts (5.5 from udacity course)
 --
 Mode
 
+Standart deviation and variance
+(Стандартно отклонение и Дисперсия)

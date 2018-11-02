@@ -13,6 +13,8 @@
 - [Seeing-theory](http://students.brown.edu/seeing-theory/)
 - [Exploring statistics](https://www.amazon.com/Exploring-Statistics-Introduction-Inference-Alexander/dp/0534363512)
 
+- [Statistics for absolutely beginners]https://www.amazon.com/Statistics-Absolute-Beginners-Theobald/dp/1980797749/ref=olp_product_details?_encoding=UTF8&me=
+
 - [Trello Course](https://trello.com/b/dpaYLjxt/%D1%81%D0%B5%D0%BC-%D0%B8%D1%81-2015-2016)
 - [FMI Resources](http://fmi.wikidot.com/probu)
 - [Replacements](http://www.statisticshowto.com/sampling-with-replacement-without/)

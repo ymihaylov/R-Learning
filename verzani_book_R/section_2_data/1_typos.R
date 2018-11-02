@@ -13,11 +13,11 @@ mean(typos)
 
 # Median 
 # Медиана - Централна средна величина. 
-# Числото, което е по-средата. 
+# Числото, което е по-средата, ако са пдредени.
 # Ако са четен брой, то средно аритметично на средните две
 median(typos)
-
-# Varians
+help(var)
+# Variance
 # Дисперсия
 # Oтклонение от математическото очакване
 var(typos)
@@ -37,10 +37,9 @@ max(typos.draft3) # Prints the worst page, maximum of the vector
 typos.draft3 == max(typos.draft3) # Returns other vector with booleans
 which(typos.draft3 == max(typos.draft3)) # Returns vector of indexes
 
-# What if we didnt have which function
-n = length(typos.draft3) # Count of pages
-pages = 1:n # how we get the pages numbers
-pages[typos.draft3 == max(typos.draft3)] # logical extraction. Very useful
+n = length(typos.draft3) # Count of elements in vector
+pages = 1:n # How we get the pages numbers
+pages[typos.draft3 == max(typos.draft3)] # Logical extraction. Very useful
 
 ?seq
 seq(1, n, 1)
