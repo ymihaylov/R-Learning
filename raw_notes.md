@@ -1,14 +1,22 @@
 # What to learn
-- Expactions (Очаквания):
-EX = x1p1 + x2p2 + ... + xkpk
+- Теория на вероятностите
+- Дисперсия на случайна величина
+- Математическо очакване
+- Стандартно отклонение
+- Пермутации, Комбинации, биномен коефициент
+- Очаквания
+- Квартили и квантили - Quartiles and Quantiles, Percentiles
+- Разпределения - Distributions
+    - Биномно разпределение
+- Случайна величина
+- Lower Hinge, Upper hinge
 
-- Quartiles and Quantiles
 
+######
+What to learn - old
 Scatter Plots
 
 Linear data - Линейни данни
-
-Relationship between two variables (3.10 from udacity course)
 
 Outliers
 
@@ -30,7 +38,6 @@ Distributions - разпределения
 
 ---
 Pie charts - visualize relative data
-Calculate Percentage for pie charts (5.5 from udacity course)
 
 --
 Mode

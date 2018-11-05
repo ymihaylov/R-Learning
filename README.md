@@ -20,7 +20,9 @@
 - [Replacements](http://www.statisticshowto.com/sampling-with-replacement-without/)
 - [Upper and Lower Hinge](http://www.statisticshowto.com/upper-hinge-lower-hinge/)
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-
+- [English terms](http://ebox.nbu.bg/statmethods/Thesaurus/Thesaurus.pdf)
+- https://www.statisticshowto.datasciencecentral.com/upper-hinge-lower-hinge/
+- https://bg.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/modal/v/confidence-interval-example
 
 # Good courses
 - [Class central report](https://www.class-central.com/report/best-statistics-probability-courses-data-science/)
